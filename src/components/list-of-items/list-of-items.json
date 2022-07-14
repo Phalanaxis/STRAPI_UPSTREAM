@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_list_of_items_list_of_items",
+  "info": {
+    "displayName": "listOfItems",
+    "icon": "grip-vertical"
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "string"
+    }
+  }
+}
